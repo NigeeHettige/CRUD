@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+     
+<product id="001">
+<name>flower</name>
+<price>100</price>
+</product>
+
+<product id="003">
+<name>motta chanuka</name>
+<price>1</price>
+</product>
+
+
+</products>
